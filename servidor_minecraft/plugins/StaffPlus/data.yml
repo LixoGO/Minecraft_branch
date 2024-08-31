@@ -1,0 +1,10 @@
+b5d52b9a-a31f-3945-9b31-f5dd4253670e:
+  name: Lixo_354
+  glass-color: 0
+  reports: []
+  warnings: []
+  notes: []
+  alert-options:
+  - XRAY;true
+  - MENTION;true
+  - NAME_CHANGE;true

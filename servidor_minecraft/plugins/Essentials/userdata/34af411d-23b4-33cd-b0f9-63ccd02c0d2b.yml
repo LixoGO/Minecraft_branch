@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.114.253.31
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724810888686
+  login: 1724810469587
+money: '0'
+last-account-name: Lorox_354
+lastlocation:
+  world: 13142a19-7e6d-454f-850c-1b902c7ade9c
+  world-name: §l§4MINECRAFT §l§fEXTREMO
+  x: 215.62138017094372
+  y: 317.0
+  z: -51.50387752602629
+  yaw: 94.1318359375
+  pitch: 70.94998168945312
+logoutlocation:
+  world: 13142a19-7e6d-454f-850c-1b902c7ade9c
+  world-name: §l§4MINECRAFT §l§fEXTREMO
+  x: -53.39629613331581
+  y: 98.04242499590364
+  z: -44.32418199168047
+  yaw: 18.68255615234375
+  pitch: 89.70004272460938

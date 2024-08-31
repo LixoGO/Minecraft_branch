@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.83.184.85
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1725054653228
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1725084656301
+  login: 1725085233116
+money: '0'
+last-account-name: Lixo_354
+logoutlocation:
+  world: 13142a19-7e6d-454f-850c-1b902c7ade9c
+  world-name: §l§4MINECRAFT §l§fEXTREMO
+  x: 176.5017703407063
+  y: 112.0
+  z: -231.4044348486757
+  yaw: -143.7822265625
+  pitch: 49.49991226196289
+lastlocation:
+  world: 13142a19-7e6d-454f-850c-1b902c7ade9c
+  world-name: §l§4MINECRAFT §l§fEXTREMO
+  x: 177.3536874965329
+  y: 107.0
+  z: -229.42578962687608
+  yaw: -28.732879638671875
+  pitch: 31.349876403808594

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.105.149.45
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1725085238009
+  login: 1725085241572
+money: '0'
+last-account-name: SakiVG
+lastlocation:
+  world: 13142a19-7e6d-454f-850c-1b902c7ade9c
+  world-name: §l§4MINECRAFT §l§fEXTREMO
+  x: 374.6149492247864
+  y: 129.0
+  z: -122.76901871780754
+  yaw: 33.22222900390625
+  pitch: 43.34996795654297
+logoutlocation:
+  world: 13142a19-7e6d-454f-850c-1b902c7ade9c
+  world-name: §l§4MINECRAFT §l§fEXTREMO
+  x: 216.51560304148114
+  y: 316.0
+  z: -53.77288850196861
+  yaw: 159.83306884765625
+  pitch: 8.249969482421875

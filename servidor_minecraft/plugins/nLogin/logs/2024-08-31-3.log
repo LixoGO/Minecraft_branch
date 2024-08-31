@@ -1,0 +1,21 @@
+[2024/08/31 06:19:44]: §9          __             _       
+[2024/08/31 06:19:44]: §9  _ __   / /  ___   __ _(_)_ __  
+[2024/08/31 06:19:44]: §9 | '_ \ / /  / _ \ / _` | | '_ \ 
+[2024/08/31 06:19:44]: §9 | | | / /__| (_) | (_| | | | | |
+[2024/08/31 06:19:44]: §9 |_| |_\____/\___/ \__, |_|_| |_|
+[2024/08/31 06:19:44]: §9                  |___/            
+[2024/08/31 06:19:44]: §9 By: www.nickuc.com - V 10.4.4 DEVELOPMENT
+[2024/08/31 06:19:44]: §9 
+[2024/08/31 06:19:45]: §3[nLogin] [DEBUG] All settings were loaded in 188 ms.
+[2024/08/31 06:19:45]: §3[nLogin] [DEBUG] Loading the messages_es.yml message file...
+[2024/08/31 06:19:45]: §3[nLogin] [DEBUG] All plugin messages were loaded in 152 ms (languageByClient=false).
+[2024/08/31 06:19:45]: §3[nLogin] [DEBUG] All proxy settings were loaded in 21 ms.
+[2024/08/31 06:19:45]: §3[nLogin] [DEBUG] Loading database...
+[2024/08/31 06:19:46]: §3[nLogin] [DEBUG] Starting logger filter...
+[2024/08/31 06:20:17]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "INSERT INTO `nlogin` (`last_name`, `unique_id`, `mojang_id`, `bedrock_id`, `password`, `last_ip`, `creation_date`, `last_seen`, `email`, `discord`, `settings`) VALUES ('SakiVG', 84be2d5d35f1398d8f45569c7dbc1736, null, null, '$2a$10$Be1PQroD7kaWNG7G6WAJYuscW9mr5SQQKsRLIXoW34PrHflALEQGO', '100.105.149.45', '2024-08-31 06:20:17.506', '2024-08-31 06:20:17.506', null, null, null)" (applied to all columns)
+[2024/08/31 06:20:17]: [nLogin] The user SakiVG has successfully registered.
+[2024/08/31 06:20:38]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'SakiVG', `unique_id` = 84be2d5d35f1398d8f45569c7dbc1736,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$Be1PQroD7kaWNG7G6WAJYuscW9mr5SQQKsRLIXoW34PrHflALEQGO', `last_ip` = '100.105.149.45', `creation_date` = 2024-08-31 06:20:17.506, `last_seen` = 2024-08-31 06:20:38.006, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 2" (applied to [last_seen, settings] columns)
+[2024/08/31 06:20:46]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'SakiVG', `unique_id` = 84be2d5d35f1398d8f45569c7dbc1736,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$Be1PQroD7kaWNG7G6WAJYuscW9mr5SQQKsRLIXoW34PrHflALEQGO', `last_ip` = '100.105.149.45', `creation_date` = 2024-08-31 06:20:17.506, `last_seen` = 2024-08-31 06:20:46.744, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 2" (applied to [last_ip, last_seen, settings] columns)
+[2024/08/31 06:20:46]: [nLogin] The user SakiVG has successfully logged in.
+[2024/08/31 06:20:48]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'Lixo_354', `unique_id` = b5d52b9aa31f39459b31f5dd4253670e,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$EJZxGxHlU03Sn2A9PFmkq..RSGWWfg6xfyE75wKuERMmq94t4UPka', `last_ip` = '100.83.184.85', `creation_date` = 2024-08-30 22:16:27.154, `last_seen` = 2024-08-31 06:20:47.986, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_ip, last_seen, settings] columns)
+[2024/08/31 06:20:48]: [nLogin] The user Lixo_354 has successfully logged in.

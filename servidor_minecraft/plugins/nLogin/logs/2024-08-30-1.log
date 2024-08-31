@@ -1,0 +1,69 @@
+[2024/08/30 22:15:22]: §9          __             _       
+[2024/08/30 22:15:22]: §9  _ __   / /  ___   __ _(_)_ __  
+[2024/08/30 22:15:22]: §9 | '_ \ / /  / _ \ / _` | | '_ \ 
+[2024/08/30 22:15:22]: §9 | | | / /__| (_) | (_| | | | | |
+[2024/08/30 22:15:22]: §9 |_| |_\____/\___/ \__, |_|_| |_|
+[2024/08/30 22:15:22]: §9                  |___/            
+[2024/08/30 22:15:22]: §9 By: www.nickuc.com - V 10.4.4 DEVELOPMENT
+[2024/08/30 22:15:22]: §9 
+[2024/08/30 22:15:23]: §3[nLogin] [DEBUG] The config.yml file was created successfully.
+[2024/08/30 22:15:25]: §3[nLogin] [DEBUG] All settings were loaded in 2197 ms.
+[2024/08/30 22:15:25]: §3[nLogin] [DEBUG] Loading the messages_es.yml message file...
+[2024/08/30 22:15:25]: §3[nLogin] [DEBUG] All plugin messages were loaded in 143 ms (languageByClient=false).
+[2024/08/30 22:15:25]: §3[nLogin] [DEBUG] All proxy settings were loaded in 13 ms.
+[2024/08/30 22:15:25]: §3[nLogin] [DEBUG] Loading database...
+[2024/08/30 22:15:26]: [nLogin] Generating RSA keypair... (this may take a while)
+[2024/08/30 22:15:26]: [nLogin] The RSA key pair was successfully generated. Took 0.59s
+[2024/08/30 22:15:26]: §3[nLogin] [DEBUG] Starting logger filter...
+[2024/08/30 22:15:43]: 
+[2024/08/30 22:15:43]:  §bThank you so much for choosing nLogin! §4<3
+[2024/08/30 22:15:43]: 
+[2024/08/30 22:15:43]:  §4For your safety, please read the message below:
+[2024/08/30 22:15:43]:   §cNever download nLogin from unknown sources.
+[2024/08/30 22:15:43]:   §cA modified version may contain malicious software.
+[2024/08/30 22:15:43]: 
+[2024/08/30 22:15:43]:  §3Trusted sources:
+[2024/08/30 22:15:43]:   §bwww.nickuc.com
+[2024/08/30 22:15:43]:   §bwww.github.com/nickuc
+[2024/08/30 22:15:43]:   §bOpeNLogin installer (from Spigot or GitHub)
+[2024/08/30 22:15:43]: 
+[2024/08/30 22:15:43]:  §3Official support channels:
+[2024/08/30 22:15:43]:   §bDiscord group: §fwww.nickuc.com/discord
+[2024/08/30 22:15:43]:   §bDocumentation: §fdocs.nickuc.com/nlogin/
+[2024/08/30 22:15:43]:   §bEmail: §fsupport@nickuc.com
+[2024/08/30 22:15:43]:   §bYouTube: §fyoutube.com/nickuc
+[2024/08/30 22:15:43]: 
+[2024/08/30 22:15:43]:  §eTo remove this warning, log in with "nlogin.admin" permission on the server
+[2024/08/30 22:15:43]:  §eand click the "Setup plugin" button to configure your plugin.
+[2024/08/30 22:15:43]: 
+[2024/08/30 22:16:27]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "INSERT INTO `nlogin` (`last_name`, `unique_id`, `mojang_id`, `bedrock_id`, `password`, `last_ip`, `creation_date`, `last_seen`, `email`, `discord`, `settings`) VALUES ('Lixo_354', b5d52b9aa31f39459b31f5dd4253670e, null, null, '$2a$10$EJZxGxHlU03Sn2A9PFmkq..RSGWWfg6xfyE75wKuERMmq94t4UPka', '100.83.184.85', '2024-08-30 22:16:27.154', '2024-08-30 22:16:27.154', null, null, null)" (applied to all columns)
+[2024/08/30 22:16:27]: §3[nLogin] [DEBUG] Loading the messages_en.yml message file...
+[2024/08/30 22:16:27]: [nLogin] The user Lixo_354 has successfully registered.
+[2024/08/30 22:16:49]: §4[nLogin] [ERROR] §cCould not run command nlogin! sender = Lixo_354, async = true
+net.minecraft.class_148: Accessing LegacyRandomSource from multiple threads
+	at net.minecraft.class_5798.method_33564(class_5798.java:88)
+	at net.minecraft.class_5820.method_43156(class_5820.java:49)
+	at net.minecraft.class_6566.method_43055(class_6566.java:43)
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftPlayer.playSound(CraftPlayerMixin.java:469)
+	at org.bukkit.craftbukkit.v1_20_R3.entity.CraftPlayer.playSound(CraftPlayerMixin.java:459)
+	at com.nickuc.login.ηΠτΠΩΔγΦρδρ.b(:329)
+	at com.nickuc.login.ΨδΨξξοζεΦεςνδς.a(:241)
+	at com.nickuc.login.ηΠτΠΩΔγΦρδρ.a(:329)
+	at com.nickuc.login.ηΠτΠΩΔγΦρδρ.a(:322)
+	at com.nickuc.login.ηΠτΠΩΔγΦρδρ.a(:305)
+	at com.nickuc.login.σΔυγκςνΓλξ.a(:88)
+	at com.nickuc.login.σΔυγκςνΓλξ.a(:104)
+	at com.nickuc.login.ψλΔθΔψηωτς.b(:92)
+	at com.nickuc.login.ΠσνδσκξΠθεΨ.d(:118)
+	at org.bukkit.craftbukkit.v1_20_R3.scheduler.CraftTask.run(CraftTask.java:82)
+	at org.bukkit.craftbukkit.v1_20_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.IllegalStateException: Accessing LegacyRandomSource from multiple threads
+	at net.minecraft.class_5798.method_33564(class_5798.java:84)
+	... 18 more
+[2024/08/30 22:17:20]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'Lixo_354', `unique_id` = b5d52b9aa31f39459b31f5dd4253670e,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$EJZxGxHlU03Sn2A9PFmkq..RSGWWfg6xfyE75wKuERMmq94t4UPka', `last_ip` = '100.83.184.85', `creation_date` = 2024-08-30 22:16:27.154, `last_seen` = 2024-08-30 22:17:20.358, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_seen, settings] columns)
+[2024/08/30 22:17:35]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'Lixo_354', `unique_id` = b5d52b9aa31f39459b31f5dd4253670e,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$EJZxGxHlU03Sn2A9PFmkq..RSGWWfg6xfyE75wKuERMmq94t4UPka', `last_ip` = '100.83.184.85', `creation_date` = 2024-08-30 22:16:27.154, `last_seen` = 2024-08-30 22:17:35.191, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_ip, last_seen, settings] columns)
+[2024/08/30 22:17:35]: [nLogin] The user Lixo_354 has successfully logged in.
+[2024/08/30 22:21:05]: [nLogin] Successful plugin core shutdown (took 0.00s)

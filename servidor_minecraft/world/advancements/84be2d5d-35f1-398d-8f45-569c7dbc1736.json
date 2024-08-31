@@ -1,0 +1,30 @@
+{
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-08-31 06:20:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-08-31 06:20:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-08-31 06:20:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:badlands": "2024-08-31 06:20:56 +0000",
+      "minecraft:jungle": "2024-08-31 06:25:01 +0000",
+      "minecraft:wooded_badlands": "2024-08-31 06:24:53 +0000",
+      "minecraft:plains": "2024-08-31 06:20:08 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3700
+}
