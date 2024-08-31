@@ -7616,4 +7616,7 @@ Worker-Main-2Ex[31Aug2024 06:28:50.212] [Worker-Main-2/DEBUG] [Implementer/SWITC
 Worker-Main-2Ex[31Aug2024 06:28:54.487] [Server thread/INFO] [net.minecraft.class_3244/]: Lixo_354 issued server command: /tp SakiVG Lixo_354
 Server threadEx[31Aug2024 06:28:58.813] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class me/NoChance/PvPManager/Player/CancelResult$1
 Server threadEx[31Aug2024 06:29:14.488] [Async Chat Thread - #4/INFO] [Console/]: <Lixo_354> se te vela scoreboard?
-Async Chat Thread - #4Ex
+Async Chat Thread - #4Ex[31Aug2024 06:29:17.837] [Async Chat Thread - #2/INFO] [Console/]: <SakiVG> si
+Async Chat Thread - #2Ex[31Aug2024 06:29:23.210] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.Material
+Server threadEx[31Aug2024 06:29:24.815] [Async Chat Thread - #2/INFO] [Console/]: <Lixo_354> ya vas
+Async Chat Thread - #2Ex
